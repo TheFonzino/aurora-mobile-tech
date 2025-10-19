@@ -1,4 +1,5 @@
 # aurora-mobile-tech
+## PC Repair & Mods
 
 This git is for my personal business website, Aurora Mobile Tech. I will be adding multiple versions to remind myself of everything I learned during my time at college, mostly how to code properly.
 
@@ -8,11 +9,21 @@ The versions I will be making depend on the complexity of the website, with an H
 
 ## __HTML Version__
 ### Contents Checklist:
-- [ ] Index/Home page
-- [ ] Pricing table page
-- [ ] Services page
-- [ ] Gallery page (?)
+- [ ] Index/Home Page
+- [ ] Pricing Table Page
+- [ ] Services Page
+- [ ] Gallery Page (?)
 
 ## __HTML Version__
 ### Contents Checklist:
-- [ ]
+- [ ] NavBar
+- [ ] Index/Home Page
+    - [ ] Carousel
+        - [ ] Recent Builds & Mods Gallery Link
+        - [ ] Featured Services Page Link
+        - [ ] Contact Me Page Link
+        - [ ] Items On Sale Link
+    - [ ] Reviews
+    - [ ] Why Choose Me
+    
+    
