@@ -16,8 +16,7 @@ The versions I will be making depend on the complexity of the website, with an H
 
 ## __React Version__
 ### Contents Checklist:
-- [ ] NavBar
-    ###### Make sure it's on every page!
+- [ ] NavBar ==Make sure it's on every page!==
 
 - [ ] Index/Home Page
     - [ ] Carousel
