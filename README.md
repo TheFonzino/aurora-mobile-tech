@@ -10,6 +10,7 @@ The versions I will be making depend on the complexity of the website, with an H
 ## __HTML Version__
 ### Contents Checklist:
 - [ ] Index/Home Page
+- [ ] Contact Page
 - [ ] Pricing Table Page
 - [ ] Services Page
 - [ ] Gallery Page (?)
