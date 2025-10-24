@@ -5,7 +5,7 @@ This git is for my personal business website, Aurora Mobile Tech. I will be addi
 
 The versions I will be making depend on the complexity of the website:
 - HTML/CSS website to create a starting basis
-- React/JS-based website where I can add more features and make it prettier than before
+- React/JS-based website using Material UI where I can add more features and make it prettier than before
 
 I may also add in APIs and databases in the future to aid in making the website easier for customers to use and check the status of their repairs:
 - Google Calendar API (to show my availability)
