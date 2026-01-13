@@ -1,0 +1,13 @@
+h1,
+h3,
+p {
+  margin: 0.5rem;
+}
+
+main div.flex-container {
+  justify-content: center;
+}
+
+main div div.flex-container {
+  flex-direction: column;
+}
